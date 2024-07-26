@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ticleyna.github.io/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/app/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/assets/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/css/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/includes/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/item/sitemap.html.gz
+Sitemap: https://ticleyna.github.io/src/sitemap.html.gz
